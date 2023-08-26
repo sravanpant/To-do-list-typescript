@@ -57,7 +57,7 @@ const Todo = () => {
             <li className="w-full block justify-start  rounded-lg dark:border-gray-600">
               <div className="flex overflow-auto  align-middle items-center pl-3">
                 <label className="w-full flex py-3 ml-2 text-xl sm:text-2xl md:text-3xl lg:text-4xl font-light text-gray-500 dark:text-gray-300">
-                  {newTask.text}violet
+                  {newTask.text}
                 </label>
               </div>
             </li>
